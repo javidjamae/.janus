@@ -10,3 +10,9 @@
 [submodule "vim-rails"]
 	path = vim-rails
 	url = https://github.com/tpope/vim-rails.git
+[submodule "ag.vim"]
+	path = ag.vim
+	url = https://github.com/rking/ag.vim
+[submodule "vim-autoformat"]
+	path = vim-autoformat
+	url = git@github.com:Chiel92/vim-autoformat.git
