@@ -16,3 +16,9 @@
 [submodule "vim-autoformat"]
 	path = vim-autoformat
 	url = git@github.com:Chiel92/vim-autoformat.git
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "MatchTagAlways"]
+	path = MatchTagAlways
+	url = git@github.com:Valloric/MatchTagAlways.git
